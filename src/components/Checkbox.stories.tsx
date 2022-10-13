@@ -1,6 +1,6 @@
 import { Meta, StoryObj } from "@storybook/react";
 import { Checkbox, CheckboxProps } from "./Checkbox";
-import { Text } from "./text";
+import { Text } from "./Text";
 
 //Configuração global, com o titulo e o componente que está sendo feito a documentação
 export default {

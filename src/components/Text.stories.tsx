@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from "@storybook/react";
-import { Text, TextProps } from "./text";
+import { Text, TextProps } from "./Text";
 
 //Configuração global, com o titulo e o componente que está sendo feito a documentação
 export default {
